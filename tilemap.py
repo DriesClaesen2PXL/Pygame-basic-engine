@@ -1,6 +1,7 @@
 import pygame as pg
 from config import *
 
+
 class Map:
     def __init__(self, filename):
         self.data = []
